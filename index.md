@@ -1,91 +1,66 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Bernat Esquirol's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Bernat Esquirol Juanola
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<div id="profile-photo" style='text-align:center;'>
+    <img src="https://drive.google.com/thumbnail?id=14EZbi-0a9x2lC3LGZXLtJQ3JyrvqP5zw" style='border-radius: 50px' width='100px'/>
 </div>
 
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+<div id="webaddress"  style='text-align:center;'>
+<a href="mailto:bernatesquirol@gmail.com">bernatesquirol@gmail.com</a>
+  | <a href="https://devpost.com/bernatesquirol">devpost/bernatesquirol</a> | <a href="https://github.com/bernatesquirol">github/bernatesquirol</a>
+</div>
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2014-2019`
+__Universitat de Barcelona, Barcelona, Spain__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Bachelor in [Mathematics](https://mat.ub.edu/graumatematiques/)
+- Bachelor in [Computer Science](https://mat.ub.edu/grauinformatica/)
 
-- Sizar
+`February 2018 - July 2018`
+__EPFL, Lausanne, Switzerland__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Exchange program in [Computer Science Section](https://ic.epfl.ch/computer-science)
 
-- Fellow
+`February 2019 - June 2019`
+__Politechnika Warszawska, Warsaw, Poland__
 
+- Exchange program in [Faculty of Mathematics and Information Science](https://www.pw.edu.pl/engpw/Academics/Faculties/Faculty-of-Mathematics-and-Information-Science) 
 
+------
 
-## Awards
+## Work experience
 
-`2012`
-President, *Royal Society*, London, UK
+`February 2016; February 2017`
+__IT Technician__, [MWC](https://www.mwcbarcelona.com/) @ Fira Barcelona
 
-Associate, *French Academy of Science*, Paris, France
+`July 2015 - September 2016`
+__Full-stack web developer__, [Getupcode.com](https://www.linkedin.com/company/getupcode-com/)
 
+`June 2017 - September 2017`
+__Web developer__, [Nauticrab](https://nauticrab.com/) 
 
+`February 2018 - June 2018`
+__Scratch teacher__, [TechSpark Academy](https://techsparkacademy.ch/en/home/)
 
-## Publications
+`July 2018 - February 2019`
+__GIS developer__, [PDU, Àrea Metropolitana de Barcelona (AMB)](http://urbanisme.amb.cat/)
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+------
 
-### Journals
+## Other projects
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`February 2017 - May 2017`
+[__Königs__](https://play.google.com/store/apps/details?id=edu.ub.pis2016.pis18.konigs): Strategy game (group project)
 
-`1669`
-Lectiones opticæ.
+`September 2017 - January 2018`
+[__Slimes__](https://enginyeriasofwareub.github.io/ES2017F2/): Turn-based multiplayer game
 
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
+`April 2018 - May 2018`
+[__SpotifAI__](https://hci-spotifai.firebaseapp.com/#): Data-viz (graph) of spotify user's preferred and recommended artists
 
