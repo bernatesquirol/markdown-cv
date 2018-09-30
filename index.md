@@ -13,6 +13,7 @@ title: Bernat Esquirol's CV
   | <a href="https://devpost.com/bernatesquirol">devpost/bernatesquirol</a> | <a href="https://github.com/bernatesquirol">github/bernatesquirol</a>
 </div>
 
+------
 
 ## Education
 
